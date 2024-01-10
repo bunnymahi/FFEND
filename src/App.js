@@ -21,7 +21,6 @@ function App() {
         <Route path="/login" element={<TA/>}/>
         <Route path="/tollplaza" element={<Tg/>}/>
         <Route path="/User-data" element={<Udata/>}/>
-        // <Route path="/getdb" element={<Table/>}/>
         <Route path="/Udata" element={<Udata/>}/>
         <Route path="/feedback" element={<Feedback/>}/>
         <Route path="/about" element={<About/>}/>
