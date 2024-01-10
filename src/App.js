@@ -1,7 +1,6 @@
 import { BrowserRouter as Router, Routes, Route } from "react-router-dom";
 import Navbar from "./Home/Navbar";
 // import Tg from "./TG/Tg";
-import Table from "./Dealer/Table";
 import Udata from "./User/Udata";
 import TA from "./Auth/TA";
 import Tg from "./TG/Tg";
