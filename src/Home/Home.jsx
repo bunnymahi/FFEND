@@ -10,7 +10,7 @@ const Home = () => {
           <div className="card">
             <div className="card-body">
               <h5 className="card-title">TOLL PLAZA</h5>
-              <Link to="/login" className="btn btn-danger">
+              <Link to="/tollplaza" className="btn btn-danger">
                 Go somewhere
               </Link>
             </div>
